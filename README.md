@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Developer Workspace"/>
 
 # 👩‍💻 Mariam Adel | مريم عادل
 
@@ -46,7 +47,7 @@ My dream is to travel, grow as a developer, and become someone I’m proud of.
 
 ## ✨ Coding Feel ✨
 <div align="center">
-<img src="https://i.ibb.co/5hTZ6BmC/female-coding.gif" width="20%" alt="Coding Fun Girl"/>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/female-coding.gif?raw=true" width="20%" alt="Coding Fun Girl"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
@@ -59,4 +60,3 @@ My dream is to travel, grow as a developer, and become someone I’m proud of.
 ## 📫 Contact
 - 📧 Email: **maria3del2023@gmail.com**  
 - 💻 GitHub: **[MariamEgyptDev](https://github.com/MariamEgyptDev)**
-
