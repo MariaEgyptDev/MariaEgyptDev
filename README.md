@@ -63,3 +63,12 @@ My dream is to travel, grow as a developer, and become someone I’m proud of.
 - 📧 Email: **maria3del2023@gmail.com**  
 - 📸 Instagram: **[@mar.iam3del](https://www.instagram.com/mar.iam3del/)**  
 - 💻 GitHub: **[MariamEgyptDev](https://github.com/MariamEgyptDev)**
+
+
+## ⚡ My Skills Level
+
+![Python](https://img.shields.io/badge/Python-80%25-green)
+![HTML](https://img.shields.io/badge/HTML-70%25-orange)
+![CSS](https://img.shields.io/badge/CSS-65%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow)
+![C++](https://img.shields.io/badge/C++-50%25-lightgrey)
