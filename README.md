@@ -67,8 +67,45 @@ My dream is to travel, grow as a developer, and become someone I’m proud of.
 
 ## ⚡ My Skills Level
 
-![Python](https://img.shields.io/badge/Python-80%25-green)
-![HTML](https://img.shields.io/badge/HTML-70%25-orange)
-![CSS](https://img.shields.io/badge/CSS-65%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow)
-![C++](https://img.shields.io/badge/C++-50%25-lightgrey)
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+# المهارات ومستواها
+skills = {
+    "Twine": 90,
+    "Python": 85,
+    "HTML": 60,
+    "Unity": 54,
+    "CSS": 54
+}
+
+# إعداد الشكل العام
+fig, axes = plt.subplots(1, len(skills), figsize=(15, 3), subplot_kw={'projection': 'polar'})
+
+if len(skills) == 1:
+    axes = [axes]
+
+for ax, (skill, level) in zip(axes, skills.items()):
+    # نصف دائرة 0-180 درجة
+    theta = np.linspace(0, np.pi, 100)
+    radii = np.ones_like(theta)*1.5
+    
+    # خلفية الدائرة
+    ax.plot(theta, radii, color="#ddd", linewidth=20, alpha=0.5)
+    
+    # السهم اللي يوضح المستوى
+    theta_level = np.pi * level / 100
+    ax.plot([0, theta_level], [0, 1.5], color="#ff5733", linewidth=4)  # السهم
+    
+    # عنوان المهارة والنسبة
+    ax.set_title(f"{skill} ({level}%)", va='bottom', fontsize=12)
+    
+    # إزالة علامات المحور
+    ax.set_yticklabels([])
+    ax.set_xticklabels([])
+    ax.set_ylim(0, 1.5)
+
+plt.tight_layout()
+plt.show()
+rey)
