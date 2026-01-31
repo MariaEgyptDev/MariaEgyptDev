@@ -50,12 +50,3 @@ My dream is to travel, develop myself, and become someone I’m proud of.
 - 📧 Email: **maria3del2023@gmail.com**
 - 💻 GitHub: **https://github.com/MariamEgyptDev**
 
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
-</div>
-
