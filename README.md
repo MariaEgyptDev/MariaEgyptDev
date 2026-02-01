@@ -58,5 +58,18 @@ This profile reflects my learning journey and progress in the programming world 
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>
 &nbsp;&nbsp;&nbsp;
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaEgyptDev&theme=nord_dark" width="32%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaEgyptDev&theme=nord_dark" width="32%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariaEgyptDev&theme=nord_dark" width="32%"/>
+
+</div>
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/>
 </div>
