@@ -24,10 +24,10 @@ My dream is to travel, grow as a developer, and become someone I’m proud of.
 <p align="center">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Twine-8A2BE2?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/twinery-8A2BE2?style=flat&logoColor=white"/>
 </p>
 
 ---
