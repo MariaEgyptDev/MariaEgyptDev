@@ -59,6 +59,8 @@ This profile reflects my learning journey and progress in the programming world 
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>
 &nbsp;&nbsp;&nbsp;
+Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/>
+</div>
 
 ## 📊 GitHub Stats
 <div align="center">
