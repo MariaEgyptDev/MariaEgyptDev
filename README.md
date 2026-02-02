@@ -4,7 +4,7 @@
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 
-# 👩‍💻 Maryam Adel | مريم
+# 👩‍💻 Maryam Adel | مريم عادل 
 
 **Student • Intermediate Programmer**
 
