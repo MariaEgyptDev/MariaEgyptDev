@@ -6,11 +6,15 @@
 
 # 👩‍💻 Maryam Adel | مريم عادل 
 
-**Student • Intermediate Programmer**
+**Student • Python & Web Learner**
 
-I'm Maryam, a student interested in programming with an intermediate level.  
-I enjoy learning, experimenting, and building small projects step by step.  
-This profile reflects my learning journey and progress in the programming world 🚀
+I'm Maryam, a student focused on building a strong foundation in programming.  
+Currently learning Python deeply while exploring web development and interactive tools.  
+
+I care about writing clean code, improving my logic, and building real projects —  
+not just tutorials.
+
+This profile documents my real progress step by step 🚀
 
 </div>
 
@@ -28,7 +32,6 @@ This profile reflects my learning journey and progress in the programming world 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 ---
 
 ## 📚 What I'm Doing Now
