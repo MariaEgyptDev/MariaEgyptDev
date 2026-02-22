@@ -35,8 +35,8 @@ This profile documents my real progress step by step 🚀
 ---
 
 ## 📚 What I'm Doing Now
-- Practicing Python and programming basics  
-- Learning web fundamentals using HTML & CSS  
+- Building small Python applications to strengthen logic and problem-solving
+- Creating structured web pages using semantic HTML & clean CSS
 - Creating simple projects to improve my skills  
 - Exploring game and interactive content tools  
 
