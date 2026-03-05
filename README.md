@@ -86,7 +86,7 @@ This profile documents my real progress step by step 🚀
 |---------|-------------|------|
 | [🔐 Login System](https://github.com/MariaEgyptDev/python-login-system) | Simple authentication system | Python |
 | [🧮 Python Calculator](https://github.com/MariaEgyptDev/python-calculator) | Basic calculator application | Python |
-| [💻 Portfolio](https://github.com/MariaEgyptDev/portfolio) | My personal portfolio website | HTML, CSS |
+| [💻 Portfolio](https://github.com/MariaEgyptDev/portfolio) | My personal portfolio website | HTML |
 | [🌐 My Portfolio](https://github.com/MariaEgyptDev/my-portfolio) | Updated and improved portfolio with projects showcase | HTML, CSS |
 
 </div>
