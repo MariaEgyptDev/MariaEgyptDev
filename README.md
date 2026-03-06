@@ -101,5 +101,3 @@ This profile documents my real progress step by step 🚀
 <img src="https://komarev.com/ghpvc/?username=MariaEgyptDev&color=blueviolet&style=flat" alt="Profile Views"/>
 
 </div>
-
- <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
