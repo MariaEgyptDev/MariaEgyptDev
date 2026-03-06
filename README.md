@@ -52,9 +52,9 @@ This profile documents my real progress step by step 🚀
 
 ## 📫 Contact Me
 - 📧 Email: **maria3del2023@gmail.com**  
-- 📸 Instagram: **[@mar.iam3del](https://www.instagram.com/mar.iam3del/)**  
+- [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://github.com/MariaEgyptDev)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> **[@mar.iam3del](https://www.instagram.com/mar.iam3del/)**  
 - 💻 GitHub: **[MariaEgyptDev](https://github.com/MariaEgyptDev)**  
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya.pal23/)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com">
+
 ---
 
 ## ✨ Coding Cycle ✨
