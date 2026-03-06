@@ -52,8 +52,8 @@ This profile documents my real progress step by step 🚀
 
 ## 📫 Contact Me
 - 📧 Email: **maria3del2023@gmail.com**  
-- 📷 instgram**mar.iam3del
-- 💻 GitHub: **[MariaEgyptDev](https://github.com/MariaEgyptDev)**  
+- 📷 Instagram: **[@mar.iam3del](https://www.instagram.com/mar.iam3del/)**
+- 💻 GitHub: **[MariaEgyptDev](https://github.com/MariaEgyptDev)**
 
 ---
 
