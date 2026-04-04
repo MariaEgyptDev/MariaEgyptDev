@@ -1,7 +1,7 @@
 ### Hello World! 👋  
 ![](https://komarev.com/ghpvc/?username=MariaEgyptDev&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="220"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="200" style="margin-top:20px;"/>
 
 ---
 
@@ -15,17 +15,16 @@
 
 ### 📫 Connect with me:
 
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/mar.iam3del/)
-[![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)](https://github.com/MariaEgyptDev)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/mar.iam3del/)  
+📧 **maria3del2023@gmail.com**  
+💻 [GitHub](https://github.com/MariaEgyptDev)
 
 ---
 
-### 👩‍💻 Languages and Tools  
+### 👩‍💻 Languages  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
 
 ---
 
