@@ -15,20 +15,29 @@
 
 ### 📫 Connect with me:
 
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/mar.iam3del/)
-[![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)](https://github.com/MariaEgyptDev)
+<a href="mailto:maria3del2023@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+</a>
+
+<a href="https://www.instagram.com/mar.iam3del/">
+<img src="https://img.icons8.com/color/48/instagram-new.png" width="40"/>
+</a>
+
+<a href="https://github.com/MariaEgyptDev">
+<img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40"/>
+</a>
 
 📧 **maria3del2023@gmail.com**
 
 ---
 
 ### 👩‍💻 Languages and Tools  
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
 
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
 ---
 
 ## 📊 GitHub Stats
