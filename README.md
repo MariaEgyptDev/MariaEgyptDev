@@ -27,6 +27,10 @@
 <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40"/>
 </a>
 
+<a href="https://dev.to/maryam_dev">
+<img src="https://img.icons8.com/color/48/dev-tone.png" width="40"/>
+</a>
+
 ### 👩‍💻 Languages and Tools  
 
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
