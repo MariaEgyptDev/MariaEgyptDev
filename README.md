@@ -1,9 +1,7 @@
 ### Hello World! 👋  
 ![](https://komarev.com/ghpvc/?username=MariaEgyptDev&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
-<div align="right">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
-</div>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="220"/>
 
 ---
 
@@ -17,19 +15,8 @@
 
 ### 📫 Connect with me:
 
-<p>
-<a href="mailto:maria3del2023@gmail.com">
-<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40"/>
-</a>
-
-<a href="https://www.instagram.com/mar.iam3del/">
-<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40"/>
-</a>
-
-<a href="https://github.com/MariaEgyptDev">
-<img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40"/>
-</a>
-</p>
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/mar.iam3del/)
+[![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)](https://github.com/MariaEgyptDev)
 
 ---
 
@@ -37,6 +24,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
 
 ---
 
