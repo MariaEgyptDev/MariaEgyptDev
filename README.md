@@ -26,7 +26,6 @@
 <a href="https://github.com/MariaEgyptDev">
 <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40"/>
 </a>
----
 
 ### 👩‍💻 Languages and Tools  
 
