@@ -74,3 +74,7 @@
 
 ## ⚡ Rule I Follow
 **Build → Fail → Fix → Repeat**
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEgyptDev&layout=compact&theme=nord_dark&size_weight=0.5&count_weight=0.5)
