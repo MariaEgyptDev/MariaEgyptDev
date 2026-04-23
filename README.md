@@ -60,6 +60,7 @@
 | 🔐 [Login System](https://github.com/MariaEgyptDev/python-login-system) | Simple authentication system using Python | Python |
 | 🧮 [Calculator](https://github.com/MariaEgyptDev/python-calculator) | Basic calculator application | Python |
 | 🎮 [Number Guessing Game](https://github.com/MariaEgyptDev/number_guessing_game.py) | Simple number guessing game using random logic | Python |
+| 🌿 [Herb Website](https://github.com/MariaEgyptDev/herb-website) | Website for herbs and natural plants information | HTML, CSS |
 
 </div>
 
