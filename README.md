@@ -54,10 +54,10 @@
 | Project | Description | Tech |
 |--------|------------|------|
 | 💊 [MediNova](https://github.com/MariaEgyptDev/MediNova) | A healthcare project for organizing and managing medical‑related data | HTML, CSS |
-| ✒ [My Website](https://github.com/MariaEgyptDev/my-website) | My personal website - Mariam Adel | HTML, CSS |
+| ✒ [My Website](https://github.com/MariaEgyptDev/my-website) | My personal website - Mariam Adel | HTML |
 | 🌐 [Portfolio v2](https://github.com/MariaEgyptDev/my-portfolio) | Improved personal portfolio with better design and structure | HTM, CSS |
 | 🎨 [CSS Button Styles](https://github.com/MariaEgyptDev/CSS-Button-Styles) | A showcase of styled CSS buttons with hover effects | HTML, CSS |
-| 💻 [Portfolio](https://github.com/MariaEgyptDev/portfolio) | Basic personal portfolio website | HTML |
+| 💻 [Portfolio](https://github.com/MariaEgyptDev/portfolio) | Basic personal portfolio website | HTML, CSS |
 | 🔐 [Login System](https://github.com/MariaEgyptDev/python-login-system) | Simple authentication system using Python | Python |
 | 🧮 [Calculator](https://github.com/MariaEgyptDev/python-calculator) | Basic calculator application | Python |
 | 🎮 [Number Guessing Game](https://github.com/MariaEgyptDev/number_guessing_game.py) | Simple number guessing game using random logic | Python |
