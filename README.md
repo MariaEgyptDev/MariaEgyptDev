@@ -55,7 +55,6 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 💊 [MediNova](https://github.com/MariaEgyptDev/MediNova) | A healthcare project for organizing and managing medical‑related data | HTML, CSS |
 | ✒ [My Website](https://github.com/MariaEgyptDev/my-website) | My personal website - Mariam Adel | HTML |
 | 🌐 [Portfolio v2](https://github.com/MariaEgyptDev/my-portfolio) | Improved personal portfolio with better design and structure | HTML, CSS |
 | 🎨 [CSS Button Styles](https://github.com/MariaEgyptDev/CSS-Button-Styles) | A showcase of styled CSS buttons with hover effects | HTML, CSS |
